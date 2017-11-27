@@ -1,0 +1,16 @@
+.latest-articles {
+    text-align: center;
+}
+
+.articles {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.articles--locked {
+    overflow: hidden;
+}
